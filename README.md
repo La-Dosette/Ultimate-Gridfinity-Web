@@ -1,12 +1,12 @@
 # Ultimate Gridfinity
 
-**[Open the web app](https://la-dosette.github.io/ultimate-gridfinity-web/)**
+**[Open the web app](https://la-dosette.github.io/Ultimate-Gridfinity-Web/)**
 
-**[Try the separate reworked preview](https://la-dosette.github.io/ultimate-gridfinity-web/next/)** · The stable release stays at the link above. Preview projects use separate browser storage: download a project from the stable version and open that file in the preview to test a copy.
+**[Try the separate reworked preview](https://la-dosette.github.io/Ultimate-Gridfinity-Web/next/)** · The stable release stays at the link above. Preview projects use separate browser storage: download a project from the stable version and open that file in the preview to test a copy.
 
-The preview includes consistent Dimensions / Shape / Assembly inspectors, previous-autosave recovery, complete laser project exports and actual bin-height/grid-thickness readouts. Its source passes 606 automated tests, including 60 cases checking the actual exported STL shapes, seating and connectors. Sixteen Chromium interaction scenarios pass on the published preview, including 3D creation, mobile handles, fractional keyboard entry, post-placement cut/grid edits and explicitly scoped exports after changing or removing bin supports. The full competitor benchmark and physical fit testing remain in progress.
+The preview includes consistent Dimensions / Shape / Assembly inspectors, previous-autosave recovery, complete laser project exports and actual bin-height/grid-thickness readouts. Its source passes 607 automated tests, including 60 cases checking the actual exported STL shapes, seating and connectors. Sixteen Chromium interaction scenarios pass on the published preview, including 3D creation, mobile handles, fractional keyboard entry, post-placement cut/grid edits and explicitly scoped exports after changing or removing bin supports. Preview 0.2.0-preview.5 also fixes the return-to-stable link after repository renaming. The full competitor benchmark and physical fit testing remain in progress.
 
-Synthetic test projects: [standard grid and bin](https://la-dosette.github.io/ultimate-gridfinity-web/next/examples/P01.gridfinity.json), [partial cell](https://la-dosette.github.io/ultimate-gridfinity-web/next/examples/P04.gridfinity.json), [unequal supports](https://la-dosette.github.io/ultimate-gridfinity-web/next/examples/P05.gridfinity.json), [S/T/H bins](https://la-dosette.github.io/ultimate-gridfinity-web/next/examples/P06.gridfinity.json), [laser assembly](https://la-dosette.github.io/ultimate-gridfinity-web/next/examples/P09.gridfinity.json).
+Synthetic test projects: [standard grid and bin](https://la-dosette.github.io/Ultimate-Gridfinity-Web/next/examples/P01.gridfinity.json), [partial cell](https://la-dosette.github.io/Ultimate-Gridfinity-Web/next/examples/P04.gridfinity.json), [unequal supports](https://la-dosette.github.io/Ultimate-Gridfinity-Web/next/examples/P05.gridfinity.json), [S/T/H bins](https://la-dosette.github.io/Ultimate-Gridfinity-Web/next/examples/P06.gridfinity.json), [laser assembly](https://la-dosette.github.io/Ultimate-Gridfinity-Web/next/examples/P09.gridfinity.json).
 
 Design Gridfinity grids, bins and laser-cut storage in your browser. This repository contains the generated web release; the development repository is private.
 
