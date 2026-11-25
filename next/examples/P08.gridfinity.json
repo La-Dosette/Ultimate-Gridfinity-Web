@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "step": "bins",
+  "technology": "print",
+  "grid": {
+    "mode": "cells",
+    "width": 4,
+    "depth": 3,
+    "variant": "standard"
+  },
+  "bins": [
+    {
+      "id": 1,
+      "col": 0,
+      "row": 0,
+      "cols": 4,
+      "rows": 3,
+      "heights": [
+        3
+      ],
+      "heightMode": "gridfinity",
+      "followGrid": true,
+      "split": {
+        "enabled": true,
+        "clearance": 0.15
+      }
+    }
+  ],
+  "cuts": [],
+  "bed": {
+    "width": 110,
+    "depth": 100,
+    "margin": 3,
+    "clearance": 0.1,
+    "connector": "none"
+  },
+  "laser": {
+    "width": 300,
+    "depth": 200,
+    "rail": 4,
+    "kerf": 0,
+    "thickness": 3,
+    "fit": 0.2
+  }
+}

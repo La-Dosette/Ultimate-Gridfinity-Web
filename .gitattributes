@@ -1,2 +1,3 @@
 assets/** -text -whitespace
+next/** -text -whitespace
 *.png binary

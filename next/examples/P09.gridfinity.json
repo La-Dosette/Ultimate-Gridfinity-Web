@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "step": "bins",
+  "technology": "laser",
+  "grid": {
+    "mode": "cells",
+    "width": 3,
+    "depth": 2,
+    "variant": "solid"
+  },
+  "bins": [
+    {
+      "id": 1,
+      "col": 0,
+      "row": 0,
+      "cols": 2,
+      "rows": 2,
+      "heights": [
+        30
+      ],
+      "heightMode": "mm",
+      "followGrid": true,
+      "laser": {
+        "dividersX": 1,
+        "dividersY": 1
+      }
+    }
+  ],
+  "cuts": [],
+  "bed": {
+    "width": 420,
+    "depth": 420,
+    "margin": 3,
+    "clearance": 0.1,
+    "connector": "none"
+  },
+  "laser": {
+    "width": 300,
+    "depth": 200,
+    "rail": 4,
+    "kerf": 0.15,
+    "thickness": 3,
+    "fit": 0.2
+  }
+}
