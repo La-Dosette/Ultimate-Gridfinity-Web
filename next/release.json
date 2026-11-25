@@ -1,7 +1,7 @@
 {
-  "stableReference": "05be7c83f9e9855ce27599afb76315d6bccef962",
-  "version": "0.2.0-preview.3",
   "channel": "preview",
-  "createdAt": "2026-11-25T18:36:57.9041613Z",
-  "sourceCommit": "06c3afe8ef2efacca3cce7a565925c678e865eef"
+  "version": "0.2.0-preview.4",
+  "sourceCommit": "eb8057bdc87263ec6ad2ce00acbd93447ad095f3",
+  "stableReference": "05be7c83f9e9855ce27599afb76315d6bccef962",
+  "builtAt": "2026-11-25T19:14:49.6073973Z"
 }
