@@ -4,7 +4,7 @@
 
 **[Try the separate reworked preview](https://la-dosette.github.io/ultimate-gridfinity-web/next/)** · The stable release stays at the link above. Preview projects use separate browser storage: download a project from the stable version and open that file in the preview to test a copy.
 
-The first preview includes consistent Dimensions / Shape / Assembly inspectors, previous-autosave recovery and complete laser project exports. Its source passes 546 automated tests and 9 Chromium interaction scenarios. The full competitor benchmark and physical fit testing remain in progress.
+The preview includes consistent Dimensions / Shape / Assembly inspectors, previous-autosave recovery, complete laser project exports and a physical-height readout verified against downloaded STL geometry. Its source passes 546 automated tests and 10 Chromium interaction scenarios. The full competitor benchmark and physical fit testing remain in progress.
 
 Synthetic test projects: [standard grid and bin](https://la-dosette.github.io/ultimate-gridfinity-web/next/examples/P01.gridfinity.json), [partial cell](https://la-dosette.github.io/ultimate-gridfinity-web/next/examples/P04.gridfinity.json), [unequal supports](https://la-dosette.github.io/ultimate-gridfinity-web/next/examples/P05.gridfinity.json), [S/T/H bins](https://la-dosette.github.io/ultimate-gridfinity-web/next/examples/P06.gridfinity.json), [laser assembly](https://la-dosette.github.io/ultimate-gridfinity-web/next/examples/P09.gridfinity.json).
 
